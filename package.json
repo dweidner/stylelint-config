@@ -13,7 +13,7 @@
   ],
   "main": "index.js",
   "scripts": {
-    "release": "npx standard-version --dry-run",
+    "release": "npx standard-version",
     "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
