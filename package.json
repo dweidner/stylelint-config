@@ -1,0 +1,36 @@
+{
+  "name": "@dweidner/stylelint-config",
+  "version": "1.0.0",
+  "description": "Opinionated stylelint config",
+  "homepage": "https://github.com/dweidner/stylelint-config#readme",
+  "repository": "dweidner/stylelint-config",
+  "author": "Daniel Weidner <hallo@danielweidner.de>",
+  "license": "MIT",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "css"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "release": "npx standard-version --dry-run",
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "merge": "^1.2.1",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "stylelint": "^13.3.3"
+  },
+  "peerDependencies": {
+    "stylelint": ">=13.0.0"
+  }
+}
