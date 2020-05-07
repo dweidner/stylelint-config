@@ -1,7 +1,7 @@
 const merge = require('merge');
 
 module.exports = {
-  plugins: [
+  extends: [
     'stylelint-config-standard'
   ],
   rules: merge(
