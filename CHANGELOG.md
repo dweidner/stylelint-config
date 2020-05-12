@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/dweidner/stylelint-config/compare/1.0.1...2.0.0) (2020-05-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* less strict rules for selectors
+
+### Features
+
+* less strict rules for selectors ([fd32baf](https://github.com/dweidner/stylelint-config/commit/fd32baf2f6c19fad6484a3e23404e9213252c0be))
+
 ### [1.0.1](https://github.com/dweidner/stylelint-config/compare/1.0.0...1.0.1) (2020-05-07)
 
 
