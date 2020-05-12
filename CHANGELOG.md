@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/dweidner/stylelint-config/compare/2.0.0...2.0.1) (2020-05-12)
+
+
+### Bug Fixes
+
+* allow more than one combinator ([df02f6a](https://github.com/dweidner/stylelint-config/commit/df02f6ad4059d06c576ca77b783b62062ed78833))
+
 ## [2.0.0](https://github.com/dweidner/stylelint-config/compare/1.0.1...2.0.0) (2020-05-12)
 
 
