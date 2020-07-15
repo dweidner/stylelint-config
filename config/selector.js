@@ -16,7 +16,7 @@ module.exports = {
   // Limit the number of type selectors in a selector.
   'selector-max-type': 2,
   // Limit the number of universal selectors in a selector.
-  'selector-max-universal': 1,
+  'selector-max-universal': 2,
   // Disallow qualifying a selector by type.
   'selector-no-qualifying-type': [
     true,
