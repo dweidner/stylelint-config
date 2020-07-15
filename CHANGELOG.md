@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.2](https://github.com/dweidner/stylelint-config/compare/2.0.1...2.0.2) (2020-07-15)
+
+
+### Bug Fixes
+
+* allow the user of the owl selector ([753853e](https://github.com/dweidner/stylelint-config/commit/753853e6d5d7507922d9bc9504d9c1f182dc45b4))
+
 ### [2.0.1](https://github.com/dweidner/stylelint-config/compare/2.0.0...2.0.1) (2020-05-12)
 
 
