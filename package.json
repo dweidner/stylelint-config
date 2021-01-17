@@ -18,19 +18,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "merge": "^1.2.1",
+    "merge": "^2.1.0",
     "stylelint-config-standard": "^20.0.0"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-standard": "^14.1.1",
-    "eslint-plugin-import": "^2.20.2",
+    "eslint": "^7.18.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.1",
+    "eslint-plugin-standard": "^4.1.0",
     "stylelint": "^13.3.3"
   },
   "peerDependencies": {
-    "stylelint": ">=13.0.0"
+    "stylelint": ">=13.8.0"
   }
 }
