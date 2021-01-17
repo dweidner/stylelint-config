@@ -12,7 +12,7 @@ module.exports = {
   // Ignore whitespace after the colon, allows to align property values.
   'declaration-colon-space-after': null,
   // Disallow property and value pairs.
-  'declaration-property-value-blacklist': {
+  'declaration-property-value-disallowed-list': {
     '/^animation/': [
       'linear'
     ]
