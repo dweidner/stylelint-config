@@ -1,6 +1,6 @@
 {
   "name": "@dweidner/stylelint-config",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "description": "Opinionated stylelint config",
   "homepage": "https://github.com/dweidner/stylelint-config#readme",
   "repository": "dweidner/stylelint-config",
